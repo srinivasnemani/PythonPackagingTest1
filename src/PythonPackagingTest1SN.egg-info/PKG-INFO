@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: PythonPackagingTest1SN
+Version: 0.0.1
+Summary: A small example package
+Home-page: https://github.com/srinivasnemani/PythonPackagingTest1
+Author: Sri N S R Nem
+Author-email: Sri N S S Nem <author@example.com>
+License: MIT
+Project-URL: Homepage, https://github.com/srinivasnemani/PythonPackagingTest1
+Keywords: development,setup,setuptools
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7, <4
+Description-Content-Type: text/markdown
+Provides-Extra: pdf
+Provides-Extra: rest
+License-File: LICENSE
+
+# PythonPackagingTest1
+ PythonPackagingTest1

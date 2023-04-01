@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/PythonPackagingTest1SN.egg-info/PKG-INFO
+src/PythonPackagingTest1SN.egg-info/SOURCES.txt
+src/PythonPackagingTest1SN.egg-info/dependency_links.txt
+src/PythonPackagingTest1SN.egg-info/entry_points.txt
+src/PythonPackagingTest1SN.egg-info/not-zip-safe
+src/PythonPackagingTest1SN.egg-info/requires.txt
+src/PythonPackagingTest1SN.egg-info/top_level.txt
+src/example/__init__.py
+src/example/file.py
